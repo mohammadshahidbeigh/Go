@@ -1,6 +1,6 @@
 # Go Programming Language
 
-<img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" alt="Go Logo" width="200"/>
+<img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="Go Logo" width="200"/>
 
 Welcome to the Go programming repository! This project is dedicated to learning and working with Go (also known as Golang).
 
